@@ -1,7 +1,7 @@
 ## Hello ! I'm Matheus Almeida
 
 - 🔭 My goal is to become a full-stack developer and researcher
-- 🌱 Studying JS, Java e IA
+- 💻 Studying JS, Java and AI
 - 📫 Contact me: matheussiqueiraalmeida7@gmail.com
 - ⚡ Fun fact: JavaScript was done in just 10 days
 
