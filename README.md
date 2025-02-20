@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Almeida 👋
+## Hello ! I'm Matheus Almeida
 
 - 🔭 Minha meta é me tornar um desenvolvedor full-stack e pesquisador
 - 🌱 Estudando JS, Java e IA
