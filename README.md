@@ -1,9 +1,9 @@
 ## Hello ! I'm Matheus Almeida
 
-- 🔭 Minha meta é me tornar um desenvolvedor full-stack e pesquisador
-- 🌱 Estudando JS, Java e IA
-- 📫 Contate-me no email: matheussiqueiraalmeida7@gmail.com
-- ⚡ Fun fact: JavaScript foi criado em apenas 10 dias
+- 🔭 My goal is to become a full-stack developer and researcher
+- 🌱 Studying JS, Java e IA
+- 📫 Contact me: matheussiqueiraalmeida7@gmail.com
+- ⚡ Fun fact: JavaScript was done in just 10 days
 
 ### Statistics:
 
