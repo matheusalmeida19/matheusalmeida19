@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+!+I'm+Matheus+Almeida)](https://git.io/typing-svg)
 
 - 🔭 My goal is to become a full-stack developer and researcher
-- 💻 Studying JS, Java and AI
+- 💻 Studying JS, Python and AI
 - 📫 Contact me: matheussiqueiraalmeida7@gmail.com
 - ⚡ Fun fact: JavaScript was done in just 10 days
 
